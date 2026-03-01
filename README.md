@@ -34,7 +34,7 @@
 <br/><br/>
 <h3>🚀 近期/代表性项目</h3>
 
-<div align="center">
+<!-- <div align="center">
   <!-- 项目1 -->
   <a href="https://github.com/duasong111/你的仓库名1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=duasong111&repo=你的仓库名1&theme=tokyonight&hide_border=true" />
@@ -54,7 +54,7 @@
 <p align="center">
   <sub>（更多项目 → <a href="https://github.com/duasong111?tab=repositories">戳这里</a>）</sub>
 </p>
-
+ -->
 
 
 
