@@ -29,6 +29,36 @@
 
 <!-- 技能图标：添加 go -->
 <br/><br/>
+
+<!-- 项目经历 -->
+<br/><br/>
+<h3>🚀 近期/代表性项目</h3>
+
+<div align="center">
+  <!-- 项目1 -->
+  <a href="https://github.com/duasong111/你的仓库名1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duasong111&repo=你的仓库名1&theme=tokyonight&hide_border=true" />
+  </a>
+  
+  <!-- 项目2 -->
+  <a href="https://github.com/duasong111/你的仓库名2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duasong111&repo=你的仓库名2&theme=tokyonight&hide_border=true" />
+  </a>
+  
+  <!-- 项目3 -->
+  <a href="https://github.com/duasong111/你的仓库名3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duasong111&repo=你的仓库名3&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<p align="center">
+  <sub>（更多项目 → <a href="https://github.com/duasong111?tab=repositories">戳这里</a>）</sub>
+</p>
+
+
+
+
+
 <h3>🛠️ Tech Stack</h3>
 <img src="https://skillicons.dev/icons?i=ts,vue,python,docker,git,linux,html,css,postgres,mysql,redis,raspberrypi,go&perline=8&theme=dark" alt="skills" />
 
